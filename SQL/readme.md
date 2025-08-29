@@ -6,4 +6,4 @@ Week1 :
 - ❌ LeetCode 181 - Employees Earning More Than Their Managers
 - ❌ LeetCode 182 - Duplicate Emails
 - ❌ Window Functions Practice
-- ❌ Joins Practice
+[200~✅ Repo should show:- ❌ Joins Practice
