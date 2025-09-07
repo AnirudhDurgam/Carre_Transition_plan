@@ -4,11 +4,14 @@
 ### 📘 Beginner Exercises
 - [x] Reverse a string (`reverse_string.py`)
 - [x] Word counter (`word_counter.py`)
-- [ ] Palindrome checker (`palindrome.py`)
-- [ ] FizzBuzz (`fizzbuzz.py`)
+- [x] Palindrome checker (`palindrome.py`)
+- [x] FizzBuzz (`fizzbuzz.py`)
+- [x]  Factorial (`factorial.py`)
+- [x]  if/else Concepts and practice
+- [x]  loops (for, while) Concepts and practice
 
 ### 🚀 Next Steps
-- [ ] Learn if/else
-- [ ] Learn loops (for, while)
+
 - [ ] Learn functions (def)
 - [ ] Practice small programs regularly
+
