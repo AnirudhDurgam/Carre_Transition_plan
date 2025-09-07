@@ -1,11 +1,9 @@
-# Transition Journey 🚀
+# 🚀 Career Transition Plan  
 
-This repo documents my learning path as I transition from Tableau Server Admin → Data Engineering.  
-I’m following a 6-month structured plan (SQL, Python, ETL, Airflow, Cloud).  
+This repository documents my structured journey to transition into a **Data Engineering / Data Analyst role** from my current Tableau Server Admin background.  
 
-## Sections
-- **SQL/** → LeetCode SQL interview prep
-- **Python/** → Basics + pandas/numpy practice
-- **Projects/** → Small ETL and pipeline projects
+I’m following a **6-month plan** (SQL + Python + Projects + Cloud) with weekly milestones, practice problems, and projects.  
+The goal: **Get a role in data domain by end of 2025.**  
 
-Each week I’ll update with new solved problems and mini projects.
+---
+
