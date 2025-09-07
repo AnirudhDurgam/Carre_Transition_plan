@@ -14,4 +14,8 @@
 
 - [ ] Learn functions (def)
 - [ ] Practice small programs regularly
+- [ ] Error handling
+- [ ] File handling
+- [ ] OOps Concept
+
 
